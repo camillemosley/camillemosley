@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @camillemosley
-- 👀 I’m interested in fisheries ecology and mangement applications using R with population and geospaital data analysis.
-- 🌱 I’m currently learning LaTex, spaital mapping, and bayesian statistics. 
-- 📫 How to reach me cmosley2@nd.edu or @CamilleMosley14 on twitter 
+- :nerd_face: Hi, I’m @camillemosley
+- :fish: I’m interested in fisheries ecology and mangement applications using R with population and geospaital data analysis.
+- :compass: I’m currently learning LaTex, spaital mapping, and bayesian statistics. 
+- :computer: How to reach me cmosley2@nd.edu or @CamilleMosley14 on twitter :baby_chick:
 
 
 <!---
